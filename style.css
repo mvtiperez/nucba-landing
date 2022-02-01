@@ -44,6 +44,10 @@ body {
     flex-wrap: wrap;
 }
 
+.navbar a:hover {
+    color: rgb(94, 94, 94);
+}
+
 .nav-logo {
     width: 30%;
     font-size: 1.2rem;
